@@ -25,7 +25,7 @@ Link : https://hiromimiyata.github.io/belly-button-challenge/
 # Running the App Locally
 If you want to run the app locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-github-repo-link.git
+Clone the repository.
 
 Navigate to the project directory: cd belly-button-challenge
 
